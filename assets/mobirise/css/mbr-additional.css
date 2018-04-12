@@ -1372,9 +1372,6 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
-.cid-qP2munq3B1 {
-  background-image: url("../../../assets/images/03.jpg");
-}
 .cid-qP2munq3B1 .icons-media-container {
   display: flex;
   justify-content: center;
@@ -1397,6 +1394,9 @@ body {
 }
 .cid-qP2munq3B1 .card {
   padding-bottom: 1.5rem;
+}
+.cid-qP2munq3B1 H5 {
+  text-align: center;
 }
 .cid-qP2n1gKDJJ .navbar {
   padding: .5rem 0;
